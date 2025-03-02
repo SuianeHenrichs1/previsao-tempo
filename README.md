@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/SuianeHenrichs1/previsao-tempo/blob/main/assets/tela.gif" alt="Demonstrando o Projeto" width="900">
+  <img src="https://github.com/SuianeHenrichs1/previsao-tempo/blob/main/src/assets/Tela%20(1).gif" alt="Demonstrando o Projeto" width="900">
 </p>
 
 <p align="center">
