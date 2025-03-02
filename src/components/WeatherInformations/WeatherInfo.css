@@ -24,7 +24,6 @@ h2 {
 .temperature {
     font-weight: bold;
     font-size: 3rem;
-
 }
 
 
@@ -39,3 +38,19 @@ h2 {
     justify-content: space-around;
     margin-top: 30px;
 }
+
+
+
+@media (max-width: 600px) {
+    .weather-info {
+        flex-direction: column; /* Empilha os itens verticalmente */
+        text-align: center;
+    }
+
+    .weather-info img {
+        width: 70px; /* Reduz um pouco o tamanho da imagem */
+        height: 70px;
+    }
+}
+
+

@@ -28,3 +28,11 @@
     text-transform: capitalize;
     font-size: 1rem;
 }
+
+/* Responsividade */
+@media (max-width: 600px) {
+    .weather-list {
+        flex-direction: column; 
+        gap: 5px; 
+    }
+}
