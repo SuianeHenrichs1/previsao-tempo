@@ -50,7 +50,7 @@ A Previsão do Tempo permite aos usuários:
 
 ## 🚀 Deploy
 
-Você pode visualizar o projeto funcionando através do seguinte link: [Deploy do Projeto](https://suianehenrichs1.github.io/previsao-tempo).
+Você pode visualizar o projeto funcionando através do seguinte link: [Deploy do Projeto](https://previsao-tempo-ebon.vercel.app).
 
 ### 📩 Contato
 
